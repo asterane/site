@@ -1,0 +1,445 @@
+#+HUGO_SECTION: ./
+#+HUGO_BASE_DIR: ../
+
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+
+* Pages
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:END:
+
+** Home
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:END:
+
+I am an electrical engineering student and software developer. I often
+go by the handle *asterane* on the internet. Welcome to my homepage!
+
+*** Recent Posts
+{{<postlist 5>}}
+
+*** Overview
+Navigate the site using the links to the left (or above, on
+mobile).
+
+[[*About]] gives more information about me, my work, and my education.
+
+Under [[*Projects]], find information about my engineering projects, each
+of which has its own GitHub repository.
+
+My [[*Blog]] contains writings on technology and engineering, hardware and
+software alike.
+
+In the footer are links to my [[https://github.com/asterane][GitHub]]
+profile, my [[*Contact]] page, and the [[*Colophon]] for this site.
+
+
+** About
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:END:
+
+#+TOC: headlines 3
+
+*** About Me
+Hi, my name is Matthew Rothlisberger. I am an aspiring electrical
+engineer and software developer.
+
+I am passionate about engineering as a mechanism to improve our world;
+I find it fulfilling to implement effective solutions for difficult
+and meaningful problems. Whenever possible, I try to discover, learn,
+and use the best tools available. My [[* Projects]] showcase some of my
+work.
+
+*** About This Site
+This site serves as a portfolio of my education, my work experience,
+and of the engineering projects I have taken on over the
+years. Sufficiently notable projects will be added and updated as I
+make progress.
+
+My [[* Blog]] is also hosted here. It is a place for me to write about
+problems and solutions that interest me, primarily in the fields of
+electrical engineering and software engineering. New posts will arrive
+when I write them.
+
+For more information on the technologies used to build this site,
+consult the [[* Colophon]].
+
+*** Education
+To date, most recent to least recent:
+
+**** Utah State University
+/2021 - 2025/
+
+*Admitted*
+
+*B.S. Electrical Engineering*
+
+I have been admitted to Utah State University for a bachelor of
+science degree in electrical engineering. Because of the ongoing
+pandemic, I chose to defer my admission and will be starting classes
+around early 2021.
+
+**** Thomas Jefferson High School for Science and Technology
+/2016 - 2020/
+
+*Graduated*
+
+*Electrical Engineering Focus*
+
+I attended TJHSST for ninth through twelfth grades after being
+admitted through an extensive application process. The highlights of
+my experience were the two years of hands on electrical engineering
+classes I took. We began with analog circuit design and built up to
+processor design, signal processing, and more.
+
+*** Work Experience
+Again, most to least recent:
+
+**** Junior Software Developer
+/2020 -/
+
+*Freelance*
+
+I am freelancing while seeking full time remote employment. During
+this time, I am working on a variety of software projects using
+languages and tools I am familiar with. Whenever I have time, I work
+on open source and make an effort to learn valuable new engineering
+skills.
+
+**** Senior Audiovisual Technician
+/2018 - 2020/
+
+*Fairfax County Public Schools*
+
+I was responsible for overseeing dozens of community events in an
+auditorium that seats several hundred people. I developed proficiency
+hanging and programming lighting fixtures; interfacing audio equipment
+and equalizing signals; and working with customers of many cultures to
+see their events through. I often worked under time pressure and under
+unforeseen circumstances to ensure that events ran well.
+
+
+** Projects
+:PROPERTIES:
+:EXPORT_FILE_NAME: projects
+:END:
+
+This is a list of my personal projects. Many are engineering efforts
+and some were undertaken for the sake of learning. I feel that all
+those listed are notable enough to include for now, but some will be
+removed in the future, and more will certainly be added.
+
+Several of these projects are not yet completed to my satisfaction,
+and I am continuing work on the ones that I consider most valuable.
+
+*** [[https://github.com/asterane/asterane.github.io][This Website]]
+A personal homepage, blog, and portfolio website. Written from scratch
+to be fast, clean, and responsive. Also see the
+[[*Colophon][colophon]].
+
+*** [[https://github.com/asterane/processor-design][Processor Design]]
+Designing a custom sixteen bit central processing unit, and
+constructing it out of discrete logic components.
+
+*** [[https://github.com/asterane/the-grid][The Grid]]
+[Readme forthcoming] Design through full implementation of a
+completely custom LED display wall and software to control it,
+measuring 12 feet high by 20 feet wide.
+
+*** [[https://github.com/asterane/analog-design][Analog Circuit Design]]
+Construction of a high fidelity 90 watt audio power amplifier. Also, a
+voltage controlled oscillator design for frequency modulation.
+
+*** Real Time Digital Signal Processing
+[Repository forthcoming] Creating algorithms to correct audio
+distortion from speakers and the environment. Written for processors
+and FPGA.
+
+*** Raycasting Demonstration
+[Repository forthcoming] Project to create a first person 3D game in
+the style of Doom, using Java. Can move around single layer 3D
+environment.
+
+*** Set Design
+[Repository forthcoming] Design and construction of all sets for
+several large theatrical shows. Used computer aided design.
+
+*** Robot Design
+[Repository forthcoming] Building the chassis for a custom wheeled
+robot using cheap materials, and writing software for it.
+
+*** Emacs Configuration
+[Repository forthcoming] My personal Emacs configuration file, with
+all the customization I use to do my work from day to day.
+
+*** [[https://github.com/asterane/c-exercises][C Exercises]]
+Practice programming using the low level C language, dealing with
+memory management, and creating efficient code.
+
+*** Rust Exercises
+[Repository forthcoming] Learning the relatively new Rust systems
+language and its many features characteristic of higher level
+languages.
+
+*** [[https://github.com/asterane/python-exercises][Python Exercises]]
+Early work learning how to program computers, as well as later efforts
+in scripting various tasks.
+
+
+** Blog
+:PROPERTIES:
+:EXPORT_FILE_NAME: blog
+:END:
+
+Welcome to the archives of my blog on engineering and
+technology. There is not much here yet, but there will be more as time
+goes on.
+
+*** Posts
+{{<postlist>}}
+
+
+** Contact
+:PROPERTIES:
+:EXPORT_FILE_NAME: contact
+:END:
+
+If you are recruiting developers or engineers, I am interested. I also
+want to hear any feedback you have about my projects or the site
+itself.
+
+If you really want to find my email address, I'm sure you
+can. Otherwise, use this form to contact me just as easily.
+
+#+BEGIN_EXPORT html
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSczyzqPe3l6Ou8hgKEyNH_Kt6vwgdLYhVxW7I4lMiyMGK7MkA/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+#+END_EXPORT
+
+
+** Colophon
+:PROPERTIES:
+:EXPORT_FILE_NAME: colophon
+:END:
+
+#+TOC: headlines 1
+
+All of the content on this site is either my work or is in the public
+domain. I designed and implemented the user interface and style
+myself.
+
+To make this project easier, and serve the website to you, I used a
+stack of excellent tools.
+
+*** Creating site content
+
+**** GNU Emacs
+In my opinion, the greatest text editor / integrated development
+environment ever created. Finely honed and infinitely customizable.
+
+**** Org Mode
+A feature filled hierarchical document creation system for Emacs, and
+the closest to perfect to do management you can get.
+
+**** GIMP
+High quality image editor and converter, used to alter or touch up
+many of the images I use on the site.
+
+**** Vivaldi
+Great browser based on Chromium, used to assess the appearance of the
+site and debug the interactions between HTML, CSS, and JS.
+
+*** Generating the site
+
+**** GNU Make
+Extremely flexible system for creating recipes to build software. Used
+to condense several useful operations into single commands.
+
+**** GNU Emacs
+Used as an Emacs Lisp interpreter, running the functions required to
+have all my source files converted into HTML for Jekyll.
+
+**** =ox-hugo=
+Backend for the Org mode exporter that generates Markdown content
+files with front matter for Hugo, from my Org files.
+
+**** Hugo
+Fast and flexible static site generator that assembles my HTML layouts
+and my generated content files into a complete website.
+
+*** Serving the site
+
+**** Git
+Universally used version control system, handles tracking changes and
+pushing site updates to GitHub.
+
+**** Magit
+Fantastic interface to Git from within Emacs. Provides convenient
+keybindings and useful information for all version control tasks.
+
+**** GitHub
+Free hosting of source repositories and static sites alike; simply the
+best option available for this site.
+
+*** Languages used
+
+**** HTML5
+HyperText Markup Language, the standard internet markup language.
+
+**** CSS3
+Cascading Style Sheets, the standard internet styling language.
+
+**** JavaScript
+The standard internet scripting language.
+
+**** Go Templates
+Hugo's template language; enables easy dynamic generation of static
+content.
+
+**** TOML
+Markup language used for Hugo configuration, like setting sitewide
+variables.
+
+**** Emacs Lisp
+Lisp dialect which describes much of Emacs functionality. Used to
+write directives for the Org mode publisher.
+
+**** Makefile
+Simple declarative language used to automate software builds.
+
+**** Zsh
+Extension of the Bourne again shell, used for scripting.
+
+**** English
+Germanic language written with a simple alphabet. Used to express
+ideas to others.
+
+
+* Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
+
+** DONE Hello World!
+CLOSED: [2020-09-22 Tue 12:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: hello-world
+:END:
+
+I have been interested in putting up my own website for some time, and
+I've finally decided to make it happen. The coronavirus pandemic (I've
+seen it referred to in one news article as "the ongoing global
+situation") has offered me more time than expected to work on personal
+projects, so I have been assembling this site for the last several
+days. In this post, I briefly discuss my motivations and goals.
+<!--more-->
+
+*** My Intent
+This site was conceived as a place to share my personal portfolio of
+projects with friends, colleagues, and potential employers. The
+resources comprising each project are stored in a repository on
+GitHub, which this site links to. Eventually, I will create additional
+pages on this site to showcase my work.
+
+Each of the projects that interest me most, present or future, will
+have their own showcase pages featuring explanations, diagrams, and
+image galleries. Projects intended to be broadly useful to others will
+also have documentation explaining features, specifications, and a
+roadmap for future development.
+
+*** This Blog
+A primary motivation to create my own site is my interest in writing
+about technology and engineering. Writing is a fantastic way to
+organize and reconsider thoughts about a topic, and to gain new
+insights. I have many exciting projects in the pipeline, almost all of
+which I intend to write about in this blog.
+
+My posts will focus on engineering problems that are interesting to
+me; I will strive to make them interesting for any future readers of
+this blog as well. I want to work from first principles, solve
+difficult problems, and make things that help people. If all goes to
+plan, my writings here will chronicle that work.
+
+*** What Else
+Check out my [[*Projects][projects]]! There are some really cool
+things there. Or perhaps you would like to learn more [[*About][about
+me]]. If you would like to contact me, use the link below. Thank you
+for reading.
+
+
+** TODO A Tale of Jekyll and Hugo
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-tale-of-jekyll-and-hugo
+:END:
+
+*** Getting Started
+When I chose to pursue this project, I had a few important goals. Here is
+a list of the qualities I wanted my site to have.
+
+- Hosting should be free. I'm not interested in paying for a domain
+  name or hosting until I have a good reason to do so.
+- I should have complete control of content and format. No irremovable
+  themes, no "proudly powered by x" footer.
+- It should be easy to publish content. I don't want to have to muck
+  around with HTML when I am just writing a blog post.
+- The site should be light, fast, and responsive. The less there is to
+  design, and the fewer dependencies, the better.
+- I should understand every part of my site, and the process by which
+  it is published. This is a learning exercise as much as anything.
+
+**** Resources
+- https://orgmode.org/worg/org-tutorials/org-jekyll.html
+- https://opensource.com/article/20/3/blog-emacs
+- http://jmcglone.com/guides/github-pages/
+
+**** GitHub Pages
+Free hosting along with total control over the site is a high bar, but
+thankfully GitHub has been offering this service for some time. I
+began by creating a new public repository with the name required by
+Pages: =asterane.github.io=. When I got going with this project a few
+days ago, I created a folder on my machine with the same name. GitHub
+Pages automatically integrates with the static site generator Jekyll,
+which is where our story leads next.
+
+**** Jekyll
+The premise of Jekyll is simple: you provide content for your site as
+Markdown or as HTML files containing only a =<body>= section. This
+content is assembled into pages using HTML layouts provided by you or
+by a premade theme. You can use a templating language called Liquid in
+your Markdown or your HTML to dynamically create page content as
+Jekyll runs. Liquid can do things like list all blog posts, or add
+HTML tags to a code snippet for highlighting.
+
+Final pages for your site are dynamically generated by Jekyll, but
+then served statically. You cannot have a backend, or any databases,
+which is just fine for a simple site like this one. In a way, Jekyll
+serves as a linker, combining your content with layouts to create full
+pages that are ready for a browser to display. To test out your site,
+it is important to install Jekyll on your own computer.
+
+Jekyll comes as a Ruby gem (a package written and distributed in
+Ruby). It's possible to use =gem install jekyll bundle=, as
+recommended by the [[https://jekyllrb.com/docs/][quickstart guide]];
+it was easier for me to use the Arch User Repository, which provides
+the relevant gems as distinct packages. After running =jekyll new
+asterane.github.io=, a new default Jekyll site was created on my
+computer. To check it out, I ran =bundle exec jekyll serve= and
+navigated to http://localhost:4000.
+
+
+*** Generating Content
+My love affair with Emacs began shortly after my senior year of high
+school was abruptly truncated by the aforementioned pandemic. I will
+undoubtedly be writing more about Emacs in the future, but suffice it
+to say that this tool has no equal. I knew that I had to be able to
+create my site using Emacs. What's more, I wanted to write all of my
+content in Org mode, the todo management and document creation system
+included with Emacs.
+
+**** Org Publish
+Test
+
+
+

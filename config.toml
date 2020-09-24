@@ -1,0 +1,12 @@
+baseURL = "https://asterane.github.io/"
+languageCode = "en-us"
+title = "asterane"
+
+[params]
+  Name = "Matthew Rothlisberger"
+
+[markup.highlight]
+  style = "emacs"
+
+[markup.goldmark.renderer]
+  unsafe = true

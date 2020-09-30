@@ -1,7 +1,7 @@
 +++
 title = "A Tale of Jekyll and Hugo"
 author = ["Matthew Rothlisberger"]
-lastmod = 2020-09-23T21:49:24-04:00
+lastmod = 2020-09-30T10:38:24-04:00
 draft = true
 weight = 2002
 +++
@@ -23,13 +23,6 @@ a list of the qualities I wanted my site to have.
     it is published. This is a learning exercise as much as anything.
 
 
-### Resources {#resources}
-
--   <https://orgmode.org/worg/org-tutorials/org-jekyll.html>
--   <https://opensource.com/article/20/3/blog-emacs>
--   <http://jmcglone.com/guides/github-pages/>
-
-
 ### GitHub Pages {#github-pages}
 
 Free hosting along with total control over the site is a high bar, but
@@ -41,7 +34,7 @@ Pages automatically integrates with the static site generator Jekyll,
 which is where our story leads next.
 
 
-### Jekyll {#jekyll}
+## Jekyll {#jekyll}
 
 The premise of Jekyll is simple: you provide content for your site as
 Markdown or as HTML files containing only a `<body>` section. This
@@ -68,7 +61,14 @@ computer. To check it out, I ran `bundle exec jekyll serve` and
 navigated to <http://localhost:4000>.
 
 
-## Generating Content {#generating-content}
+### Resources {#resources}
+
+-   <https://orgmode.org/worg/org-tutorials/org-jekyll.html>
+-   <https://opensource.com/article/20/3/blog-emacs>
+-   <http://jmcglone.com/guides/github-pages/>
+
+
+### Generating Content {#generating-content}
 
 My love affair with Emacs began shortly after my senior year of high
 school was abruptly truncated by the aforementioned pandemic. I will
@@ -79,6 +79,21 @@ content in Org mode, the todo management and document creation system
 included with Emacs.
 
 
-### Org Publish {#org-publish}
+#### Org Publish {#org-publish}
 
-Test
+placeholder
+
+
+## Hugo {#hugo}
+
+
+### Resources {#resources}
+
+-   <https://www.shanesveller.com/blog/2018/02/13/blogging-with-org-mode-and-ox-hugo/>
+-   <https://zwbetz.com/make-a-hugo-blog-from-scratch/>
+-   <https://jpdroege.com/blog/hugo-shortcodes-partials/>
+
+
+### Generating Content {#generating-content}
+
+placeholder

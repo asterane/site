@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["Matthew Rothlisberger"]
-lastmod = 2020-09-23T21:49:23-04:00
+lastmod = 2020-09-30T10:38:23-04:00
 draft = false
 weight = 2002
 +++

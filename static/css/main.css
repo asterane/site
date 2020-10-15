@@ -5,6 +5,7 @@
 body {
     font-family: Verdana, Geneva, sans-serif;
 }
+
 nav {
     background-color: #2A64AD;
     overflow: hidden;
@@ -48,6 +49,7 @@ nav img {
     position: absolute;
     bottom: 0;
 }
+
 a {
     text-decoration: none;
     color: #2A64AD;
@@ -55,6 +57,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 div#home {
     position: relative;
     margin-bottom: 1.5rem;
@@ -74,11 +77,14 @@ div#home h1 {
     /* text-shadow: 2px 2px 8px black, -2px -2px 8px black, 2px -2px 8px black, -2px 2px 8px black; */
     margin-bottom: 1.5rem;
 }
-div.toc {margin: 1rem 0rem 2rem;}
+
+div.toc {margin: 2rem 0rem 2rem;}
+h1 + div.toc {margin-top: 1rem;}
 div.toc div.heading {display: none;}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: Tahoma, Geneva, sans-serif;
-    color: #222;
+    color: #111;
     margin-bottom: 1rem;
 }
 h1 {
@@ -95,6 +101,7 @@ h3 {
 }
 h4 {
     font-size: 1.2rem;
+    margin-top: 1.2rem;
 }
 h5 {
     font-size: 1.1rem;
@@ -103,25 +110,57 @@ h5 {
 h6 {
     font-size: 0.9rem;
 }
+
 p {
     font-size: 1.1rem;
     line-height: 1.7rem;
-    color: #444;
+    color: #333;
     margin: 1rem 0rem;
 }
 li {
     font-size: 1.1rem;
     line-height: 1.6rem;
-    color: #444
+    color: #333
 }
 ul {
     list-style-position: outside;
     margin-left: 2rem;
 }
+
 code {
     font-family: Consolas, monaco, monospace;
     font-size: 0.95em;
 }
+p code {
+    background-color: #EEE;
+    padding: 0.1rem 0.3rem;
+    border-radius: 0.2rem;
+}
+pre {
+    background-color: #f8f8f8;
+    overflow: auto;
+    padding: 0.8rem;
+    margin: 1rem 0rem;
+}
+
+section.footnotes {
+    margin-top: 2rem;
+}
+.footnotes ol {
+    list-style-position: outside;
+    margin-left: 2rem;
+}
+.footnotes li {
+    font-size: 1rem;
+}
+.footnotes p {
+    font-size: 1rem;
+}
+sup {
+    line-height: 0;
+    /* font-weight: bolder; */
+}
+
 footer {
     padding-top: 0.8rem;
     border-top: 1px solid #999;
@@ -145,6 +184,7 @@ footer p {
     font-size: 0.8rem;
     text-align: left;
 }
+
 ul.posts {
     margin: 1rem 0rem 1.5rem;
 }
@@ -165,6 +205,7 @@ ul.posts p {
     margin-left: 0.6rem;
     border-left: 1px solid #999;
 }
+
 p.meta {
     font-size: 1.5rem;
     font-style: italic;
@@ -177,9 +218,7 @@ h1 + p:not(.meta) {
 h1 + ul.posts {
     margin-top: 2rem;
 }
-.highlight {
-    padding: 0.8rem;
-}
+
 @media screen and (max-width: 768px) {
     html {
         font-size: 14px;

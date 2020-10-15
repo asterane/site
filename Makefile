@@ -7,7 +7,7 @@ deploy:
 
 serve:
 	@echo "Serving..."
-	hugo serve --bind 0.0.0.0
+	hugo server -D --bind 0.0.0.0
 
 publish:
 	@echo "Publishing..."

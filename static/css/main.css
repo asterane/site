@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+html {
+    font-size: 13px;
+}
 body {
     font-family: Verdana, Geneva, sans-serif;
 }
@@ -14,8 +17,9 @@ nav p {
     font-family: Consolas, monaco, monospace;
     color: white;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.3rem;
     line-height: 0;
+    letter-spacing: 0.08rem;
 }
 nav ul {
     position: relative;
@@ -34,12 +38,12 @@ nav ul li {
     font-weight: lighter;
     /* font-variant: small-caps; */
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.15rem;
 }
 nav ul li a {
     color: white;
     display: block;
-    padding: 30px 20px;
+    padding: 1.75rem 1.5rem;
 }
 nav ul li a:hover {
     background-color: #0d1e35;
@@ -84,7 +88,7 @@ div.toc div.heading {display: none;}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Tahoma, Geneva, sans-serif;
-    color: #111;
+    color: #000;
     margin-bottom: 1rem;
 }
 h1 {
@@ -114,13 +118,13 @@ h6 {
 p {
     font-size: 1.1rem;
     line-height: 1.7rem;
-    color: #333;
+    color: #000;
     margin: 1rem 0rem;
 }
 li {
     font-size: 1.1rem;
     line-height: 1.6rem;
-    color: #333
+    color: #000
 }
 ul {
     list-style-position: outside;
@@ -129,7 +133,7 @@ ul {
 
 code {
     font-family: Consolas, monaco, monospace;
-    font-size: 0.95em;
+    font-size: 0.95rem;
 }
 p code {
     background-color: #EEE;
@@ -234,9 +238,10 @@ h1 + ul.posts {
     nav p {
         position: absolute;
         right: 0;
-        margin: 10px 5px;
+        margin: 4px 4px;
         padding: 20px 15px;
         border-left: 1px solid white;
+        font-size: 2rem;
     }
     nav ul li#menu a:hover {background-color: transparent;}
     nav ul li:not(:first-child) {display: none;}
@@ -257,7 +262,7 @@ h1 + ul.posts {
         display: none;
     }
     nav {
-        width: 300px;
+        width: clamp(200px, 20%, 300px);
         height: 100%;
         position: fixed;
         top: 0;
@@ -271,15 +276,15 @@ h1 + ul.posts {
     }
     div.container {
         position: relative;
-        left: 300px;
-        width: 50%;
-        margin: 50px;
+        left: clamp(200px, 20%, 300px);
+        width: min(80%, 600px);
+        margin: 2%;
     }
     footer {
         position: relative;
-        left: 300px;
-        width: 50%;
-        margin: 50px;
+        left: clamp(200px, 20%, 300px);
+        width: min(80%, 600px);
+        margin: 2%;
     }
 }
 @media screen and (max-height: 768px) {

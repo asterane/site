@@ -1,13 +1,13 @@
 +++
 title = "Home"
 author = ["Matthew Rothlisberger"]
-lastmod = 2020-10-14T20:44:12-04:00
+lastmod = 2021-12-01T21:13:32-07:00
 draft = false
 weight = 2001
 +++
 
-I am an electrical engineering student and software developer. I often
-go by the handle **asterane** on the internet. Welcome to my homepage!
+I am an engineer, working on software and electronics. I often go by
+the handle **asterane** on the internet. Welcome to my homepage!
 
 
 ## Recent Posts {#recent-posts}
@@ -28,5 +28,5 @@ of which has its own GitHub repository.
 My [Blog]({{< relref "blog" >}}) contains writings on technology and engineering, hardware and
 software alike.
 
-In the footer are links to my [GitHub](https://github.com/asterane)
-profile, my [Contact]({{< relref "contact" >}}) page, and the [Colophon]({{< relref "colophon" >}}) for this site.
+In the footer are links to my [GitHub](https://github.com/asterane) profile, my [Contact]({{< relref "contact" >}}) page, and
+the [Colophon]({{< relref "colophon" >}}) for this site.

@@ -1,8 +1,8 @@
 +++
 title = "A Tale of Jekyll and Hugo"
 author = ["Matthew Rothlisberger"]
-date = 2020-10-14T20:27:00-04:00
-lastmod = 2020-10-14T20:44:14-04:00
+date = 2020-10-14T20:27:00-06:00
+lastmod = 2021-12-01T21:13:33-07:00
 draft = false
 weight = 2002
 +++

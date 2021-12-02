@@ -1,7 +1,7 @@
 +++
 title = "Colophon"
 author = ["Matthew Rothlisberger"]
-lastmod = 2020-10-14T20:44:13-04:00
+lastmod = 2021-12-01T21:13:33-07:00
 draft = false
 weight = 2006
 +++

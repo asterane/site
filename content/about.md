@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["Matthew Rothlisberger"]
-lastmod = 2020-10-14T20:44:12-04:00
+lastmod = 2021-12-01T21:13:33-07:00
 draft = false
 weight = 2002
 +++
@@ -14,10 +14,10 @@ weight = 2002
 - [About Me](#about-me)
 - [About This Site](#about-this-site)
 - [Education](#education)
-    - [Utah State University](#utah-state-university)
     - [Thomas Jefferson High School for Science and Technology](#thomas-jefferson-high-school-for-science-and-technology)
 - [Work Experience](#work-experience)
-    - [Junior Software Developer](#junior-software-developer)
+    - [Audiovisual Event Technician](#audiovisual-event-technician)
+    - [Software Developer](#software-developer)
     - [Senior Audiovisual Technician](#senior-audiovisual-technician)
 
 </div>
@@ -26,14 +26,13 @@ weight = 2002
 
 ## About Me {#about-me}
 
-Hi, my name is Matthew Rothlisberger. I am an aspiring electrical
-engineer and software developer.
+Hi, my name is Matthew Rothlisberger. I am a software engineer and
+electrical engineer.
 
 I am passionate about engineering as a mechanism to improve our world;
 I find it fulfilling to implement effective solutions for difficult
-and meaningful problems. Whenever possible, I try to discover, learn,
-and use the best tools available. My [Projects]({{< relref "projects" >}}) showcase some of my
-work.
+and meaningful problems. I do my best to discover, learn, and use the
+best tools available. My [Projects]({{< relref "projects" >}}) showcase some of my work.
 
 
 ## About This Site {#about-this-site}
@@ -54,22 +53,6 @@ consult the [Colophon]({{< relref "colophon" >}}).
 
 ## Education {#education}
 
-To date, most recent to least recent:
-
-
-### Utah State University {#utah-state-university}
-
-_2021 - 2025_
-
-**Admitted**
-
-**B.S. Electrical Engineering**
-
-I have been admitted to Utah State University for a bachelor of
-science degree in electrical engineering. Because of the ongoing
-pandemic, I chose to defer my admission and will be starting classes
-around early 2021.
-
 
 ### Thomas Jefferson High School for Science and Technology {#thomas-jefferson-high-school-for-science-and-technology}
 
@@ -88,17 +71,29 @@ processor design, signal processing, and more.
 
 ## Work Experience {#work-experience}
 
-Again, most to least recent:
+
+### Audiovisual Event Technician {#audiovisual-event-technician}
+
+_2021 -_
+
+**USU Event Services**
+
+I supply audio, video, and lighting services for events in spaces
+across a large college campus. I work independently and as part of a
+team in equal measure. I set up and strike equipment, manage events to
+ensure that they run smoothly, and operate indoors and outdoors. I am
+skilled with all the equipment we use, including mixers, light boards,
+video controllers, audio processors, and integration consoles.
 
 
-### Junior Software Developer {#junior-software-developer}
+### Software Developer {#software-developer}
 
 _2020 -_
 
 **Freelance**
 
-I am freelancing while seeking full time remote employment. During
-this time, I am working on a variety of software projects using
+I freelanced while my university admission was deferred, and still do
+to an extent. I am working on various software projects using
 languages and tools I am familiar with. Whenever I have time, I work
 on open source and make an effort to learn valuable new engineering
 skills.

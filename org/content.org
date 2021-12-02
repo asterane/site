@@ -16,8 +16,10 @@
 :EXPORT_FILE_NAME: _index
 :END:
 
-I am an electrical engineering student and software developer. I often
-go by the handle *asterane* on the internet. Welcome to my homepage!
+I am an engineer, working on software and electronics. I often go by
+the handle *asterane* on the internet. Welcome to my homepage!
+
+[[file:../static/MatthewRothlisbergerResume.pdf][See my resume.]]
 
 *** Recent Posts
 {{<postlist 5>}}
@@ -34,8 +36,8 @@ of which has its own GitHub repository.
 My [[*Blog]] contains writings on technology and engineering, hardware and
 software alike.
 
-In the footer are links to my [[https://github.com/asterane][GitHub]]
-profile, my [[*Contact]] page, and the [[*Colophon]] for this site.
+In the footer are links to my [[https://github.com/asterane][GitHub]] profile, my [[*Contact]] page, and
+the [[*Colophon]] for this site.
 
 
 ** About
@@ -46,14 +48,13 @@ profile, my [[*Contact]] page, and the [[*Colophon]] for this site.
 #+TOC: headlines 3
 
 *** About Me
-Hi, my name is Matthew Rothlisberger. I am an aspiring electrical
-engineer and software developer.
+Hi, my name is Matthew Rothlisberger. I am a software engineer and
+electrical engineer.
 
 I am passionate about engineering as a mechanism to improve our world;
 I find it fulfilling to implement effective solutions for difficult
-and meaningful problems. Whenever possible, I try to discover, learn,
-and use the best tools available. My [[* Projects]] showcase some of my
-work.
+and meaningful problems. I do my best to discover, learn, and use the
+best tools available. My [[* Projects]] showcase some of my work.
 
 *** About This Site
 This site serves as a portfolio of my education, my work experience,
@@ -70,19 +71,18 @@ For more information on the technologies used to build this site,
 consult the [[* Colophon]].
 
 *** Education
-To date, most recent to least recent:
-
-**** Utah State University
+**** COMMENT Utah State University
 /2021 - 2025/
 
-*Admitted*
+*In Progress*
 
 *B.S. Electrical Engineering*
 
-I have been admitted to Utah State University for a bachelor of
-science degree in electrical engineering. Because of the ongoing
-pandemic, I chose to defer my admission and will be starting classes
-around early 2021.
+I have begun my study of electrical engineering at Utah State
+University. I deferred my admission a year due to coronavirus
+measures, and I expect to complete my Bachelor of Science degree in
+Spring 2025. My courses so far have primarily covered programming and
+digital circuit design.
 
 **** Thomas Jefferson High School for Science and Technology
 /2016 - 2020/
@@ -98,15 +98,25 @@ classes I took. We began with analog circuit design and built up to
 processor design, signal processing, and more.
 
 *** Work Experience
-Again, most to least recent:
+**** Audiovisual Event Technician
+/2021 -/
 
-**** Junior Software Developer
+*USU Event Services*
+
+I supply audio, video, and lighting services for events in spaces
+across a large college campus. I work independently and as part of a
+team in equal measure. I set up and strike equipment, manage events to
+ensure that they run smoothly, and operate indoors and outdoors. I am
+skilled with all the equipment we use, including mixers, light boards,
+video controllers, audio processors, and integration consoles.
+
+**** Software Developer
 /2020 -/
 
 *Freelance*
 
-I am freelancing while seeking full time remote employment. During
-this time, I am working on a variety of software projects using
+I freelanced while my university admission was deferred, and still do
+to an extent. I am working on various software projects using
 languages and tools I am familiar with. Whenever I have time, I work
 on open source and make an effort to learn valuable new engineering
 skills.
@@ -1060,3 +1070,12 @@ to generate it. That is, unless something better[fn:1] comes along
 in the meantime.
 
 [fn:1] See [[https://github.com/grego/blades][Blades]].
+
+
+** TODO [Working Title] Falling Behind
+:PROPERTIES:
+:END:
+
+Our tools are not up to the task of solving our problems, and they
+have seen little improvement since the computing age began. Why has
+this happened, and what should be done about it...

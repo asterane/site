@@ -9,6 +9,8 @@ weight = 2001
 I am an engineer, working on software and electronics. I often go by
 the handle **asterane** on the internet. Welcome to my homepage!
 
+[See my resume.](/MatthewRothlisbergerResume.pdf)
+
 
 ## Recent Posts {#recent-posts}
 

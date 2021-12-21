@@ -8,7 +8,7 @@
 
 * Pages
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_SECTION: 
 :END:
 
 ** Home
@@ -20,6 +20,8 @@ I am an engineer, working on software and electronics. I often go by
 the handle *asterane* on the internet. Welcome to my homepage!
 
 [[file:../static/MatthewRothlisbergerResume.pdf][See my resume.]]
+
+[[/grid][Check out The Grid.]]
 
 *** Recent Posts
 {{<postlist 5>}}
@@ -324,6 +326,69 @@ Extension of the Bourne again shell, used for scripting.
 **** English
 Germanic language written with a simple alphabet. Used to express
 ideas to others.
+
+
+* The Grid
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: grid
+:END:
+
+** The Grid
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:END:
+
+#+BEGIN_EXPORT html
+<video src="https://raw.githubusercontent.com/asterane/the-grid/master/media/videos/tetris_3.mp4" controls>Tetris</video>
+#+END_EXPORT
+
+*[Work in progress]*
+
+[[*System]] here.
+
+[[*Structure]] here.
+
+[[*Electronics]] here.
+
+[[*Software]] here.
+
+[[*Reflection]] here.
+
+
+** System
+:PROPERTIES:
+:EXPORT_FILE_NAME: system
+:END:
+
+a
+
+** Structure
+:PROPERTIES:
+:EXPORT_FILE_NAME: structure
+:END:
+
+a
+
+** Electronics
+:PROPERTIES:
+:EXPORT_FILE_NAME: electronics
+:END:
+
+a
+
+** Software
+:PROPERTIES:
+:EXPORT_FILE_NAME: software
+:END:
+
+a
+
+** Reflection
+:PROPERTIES:
+:EXPORT_FILE_NAME: reflection
+:END:
+
+a
 
 
 * Posts

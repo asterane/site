@@ -1,7 +1,7 @@
 +++
 title = "Home"
 author = ["Matthew Rothlisberger"]
-lastmod = 2021-12-01T21:13:32-07:00
+lastmod = 2021-12-21T03:51:49-05:00
 draft = false
 weight = 2001
 +++
@@ -10,6 +10,8 @@ I am an engineer, working on software and electronics. I often go by
 the handle **asterane** on the internet. Welcome to my homepage!
 
 [See my resume.](/MatthewRothlisbergerResume.pdf)
+
+[Check out The Grid.](/grid)
 
 
 ## Recent Posts {#recent-posts}

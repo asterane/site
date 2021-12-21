@@ -147,6 +147,11 @@ pre {
     margin: 1rem 0rem;
 }
 
+video {
+    width: 100%;
+    height: auto;
+}
+
 section.footnotes {
     margin-top: 2rem;
 }

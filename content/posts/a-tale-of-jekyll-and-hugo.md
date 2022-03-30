@@ -1,8 +1,8 @@
 +++
 title = "A Tale of Jekyll and Hugo"
 author = ["Matthew Rothlisberger"]
-date = 2020-10-14T20:27:00-04:00
-lastmod = 2021-12-21T03:51:51-05:00
+date = 2020-10-14T20:27:00-06:00
+lastmod = 2022-03-30T13:30:51-06:00
 draft = false
 weight = 2002
 +++
@@ -21,7 +21,6 @@ my work began to have its own appeal. In recent weeks, I have put up
 this site to fill both purposes. Without further ado, let's begin.
 
 <div class="ox-hugo-toc toc">
-<div></div>
 
 <div class="heading">Table of Contents</div>
 
@@ -471,7 +470,7 @@ generated from the contents of particular folders, according to a
 clearly documented set of rules. A simple configuration file,
 `config.toml`, appears below.
 
-```conf
+```cfg
 baseURL = "https://asterane.github.io/"
 languageCode = "en-us"
 title = "asterane"
@@ -567,7 +566,7 @@ Markdown. They may be split up into subdirectories as desired, each
 representing a distinct section of the site. Every content file must
 contain Hugo front matter, depicted here.
 
-```conf
+```cfg
 +++
 title = "Hello World"
 author = ["Name Here"]

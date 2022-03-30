@@ -24,7 +24,7 @@ the handle *asterane* on the internet. Welcome to my homepage!
 [[/grid][Check out The Grid.]]
 
 *** Recent Posts
-{{<postlist 5>}}
+{{< postlist 5 >}}
 
 *** Overview
 Navigate the site using the links to the left (or above, on
@@ -210,7 +210,7 @@ technology. There is not much here yet, but there will be more as time
 goes on.
 
 *** Posts
-{{<postlist>}}
+{{< postlist >}}
 
 
 ** Contact
@@ -328,7 +328,7 @@ Germanic language written with a simple alphabet. Used to express
 ideas to others.
 
 
-* The Grid
+* Grid
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: grid
 :END:
@@ -360,35 +360,147 @@ ideas to others.
 :EXPORT_FILE_NAME: system
 :END:
 
-a
+[[/grid][Up to main Grid page]]
+
+#+begin_export html
+<video src="https://raw.githubusercontent.com/asterane/the-grid/master/media/videos/refresh_test_2.mp4" controls title="Refresh Test">Refresh Test</video>
+#+end_export
+
+#+begin_export html
+<video src="https://raw.githubusercontent.com/asterane/the-grid/master/media/videos/fading.mp4" controls title="Fading">Fading</video>
+#+end_export
+
+#+begin_export html
+<video src="https://raw.githubusercontent.com/asterane/the-grid/master/media/videos/cues_1.mp4" controls title="Cues">Cues</video>
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/all_on_2.jpg" title="All On" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/troubleshooting.jpg" title="Troubleshooting" />
+#+end_export
 
 ** Structure
 :PROPERTIES:
 :EXPORT_FILE_NAME: structure
 :END:
 
-a
+[[/grid][Up to main Grid page]]
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/structure/stage_render.png" title="Stage Render" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/structure/cubes_5.jpg" title="Cubes" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/finished_2.jpg" title="Finished" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/finished_4.jpg" title="Finished" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/finished_5.jpg" title="Finished" />
+#+end_export
 
 ** Electronics
 :PROPERTIES:
 :EXPORT_FILE_NAME: electronics
 :END:
 
-a
+[[/grid][Up to main Grid page]]
+
+#+begin_export html
+<video src="https://raw.githubusercontent.com/asterane/the-grid/master/media/videos/LED_test_3.mp4" controls title="LED Test">LED Test</video>
+#+end_export
+
+#+begin_export html
+<video src="https://raw.githubusercontent.com/asterane/the-grid/master/media/videos/LED_test_4.mp4" controls title="LED Test">LED Test</video>
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/current-sources/schematics/circuit.svg" title="Circuit" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/current-sources/schematics/board.svg" title="Board Layout" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/current-sources/renderings/board2.png" title="Board Render" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/current-sources/renderings/board5.png" title="Board Render" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/current-sources/finished_boards_2.jpg" title="Finished Boards" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/power-supplies/psu_cover_render.png" title="PSU Cover Render" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/power-supplies/psu_assembly_2.jpg" title="PSU Assembly" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/power-supplies/finished_psu_2.jpg" title="Finished PSU" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/integration_08.jpg" title="Integration" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/integration_11.jpg" title="Integration" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/electronics/integration_12.jpg" title="Integration" />
+#+end_export
 
 ** Software
 :PROPERTIES:
 :EXPORT_FILE_NAME: software
 :END:
 
-a
+[[/grid][Up to main Grid page]]
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/software/control_interface_2.png" title="Control Interface" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/LEDarchitecture.png" title="LED Control Architecture" />
+#+end_export
 
 ** Reflection
 :PROPERTIES:
 :EXPORT_FILE_NAME: reflection
 :END:
 
-a
+[[/grid][Up to main Grid page]]
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/celebration_3.jpg" title="Celebration" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/grid.jpg" title="Grid" />
+#+end_export
+
+#+begin_export html
+<img src="https://raw.githubusercontent.com/asterane/the-grid/master/media/pictures/group_shot.jpg" title="Group Shot" />
+#+end_export
 
 
 * Posts
